@@ -26,7 +26,7 @@ function App() {
   return (
     <div className="app-container">
      <h1>Pokemon Kingdom .</h1>
-    
+    {/*  */}
      <div className="pokemon-container">
        <div className="all-container">
           {allPokemons.map((pokemon,index)=> 
