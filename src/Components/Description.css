@@ -1,0 +1,17 @@
+.description {
+    padding: 10px;
+    background-color: #f8f8f8;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-top: 10px;
+  }
+  
+  .description h3 {
+    margin-top: 10px;
+    color: #333;
+  }
+  
+  .description p {
+    margin: 5px 0;
+    color: #555;
+  }
